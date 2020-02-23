@@ -3,5 +3,4 @@ Use "python3 run.py -f CONFIG_FILE_NAME" to run the experiment, the program will
 
 The source will work with both main assignment experiments and bonuses(bonus 1, bonus 2 a b c d)
 
-Have a great day!
-Ruicheng
+Ray
