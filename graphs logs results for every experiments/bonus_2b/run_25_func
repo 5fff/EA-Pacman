@@ -1,0 +1,6 @@
+
+Best Pacman Function in last generation:
+self.f_safe_div(self.game.t_mdpf(coord),(self.game.t_mdpp(coord)*self.game.t_nwp(coord)))
+
+Corresponding Ghost Function in last generation::
+(self.game.t_md_near_p(coord)-self.game.t_md_near_p(coord))

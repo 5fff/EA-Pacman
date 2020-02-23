@@ -1,0 +1,6 @@
+
+Best Pacman Function in last generation:
+(self.game.t_mdpp(coord)+self.rand(self.game.t_mdpf(coord),self.game.t_md_other_p(coord, self.role_id)))
+
+Corresponding Ghost Function in last generation::
+self.game.t_md_other_g(coord, self.role_id)
